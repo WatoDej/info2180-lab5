@@ -1,1 +1,21 @@
 /* Add your own styles */
+
+header{
+    background-color: #4a5568;
+    background-image: url(backgroundforlab5.png);
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+  }
+
+  h1{
+    color:  #f7fafc;
+  }
+
+  body{
+    background-color:  #f7fafc;
+  }
+
+#controls{
+    text-align: center;
+}
